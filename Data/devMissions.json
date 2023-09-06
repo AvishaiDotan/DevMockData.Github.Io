@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "difficulty": "Intermediate",
+    "mostImportantGroupAttribute": "Algorithm Solving",
+    "payment": 5500,
+    "description": "Mission: Optimize a SQL database for a high-traffic e-commerce platform using PostgreSQL and implement caching with Redis."
+  },
+  {
+    "id": 2,
+    "difficulty": "Advanced",
+    "mostImportantGroupAttribute": "Security",
+    "payment": 7200,
+    "description": "Mission: Conduct a thorough security audit of a Java-based banking application, identifying and mitigating vulnerabilities in collaboration with the security team."
+  },
+  {
+    "id": 3,
+    "difficulty": "Advanced",
+    "mostImportantGroupAttribute": "Creativity",
+    "payment": 6200,
+    "description": "Mission: Develop a responsive React-based dashboard for real-time data visualization and analytics using GraphQL for efficient data fetching."
+  },
+  {
+    "id": 4,
+    "difficulty": "Intermediate",
+    "mostImportantGroupAttribute": "User Focused",
+    "payment": 5000,
+    "description": "Mission: Improve user engagement in a mobile fitness app by designing and implementing personalized workout recommendations using machine learning algorithms."
+  },
+  {
+    "id": 5,
+    "difficulty": "Advanced",
+    "mostImportantGroupAttribute": "Fast paced",
+    "payment": 8000,
+    "description": "Mission: Lead a cross-functional team in a fast-paced project to migrate a legacy Java application to microservices architecture using Kafka for event-driven communication."
+  },
+  {
+    "id": 6,
+    "difficulty": "Intermediate",
+    "mostImportantGroupAttribute": "Algorithm Solving",
+    "payment": 5800,
+    "description": "Mission: Develop custom algorithms in Python for image recognition in an autonomous drone system, enhancing its obstacle detection capabilities."
+  },
+  {
+    "id": 7,
+    "difficulty": "Advanced",
+    "mostImportantGroupAttribute": "Security",
+    "payment": 7100,
+    "description": "Mission: Harden the security posture of a cloud-based SaaS platform built on Node.js, conducting regular penetration testing and implementing AWS security best practices."
+  },
+  {
+    "id": 8,
+    "difficulty": "Beginner",
+    "mostImportantGroupAttribute": "Creativity",
+    "payment": 3800,
+    "description": "Mission: Create a user-friendly onboarding experience for a food delivery app using Vue.js, focusing on innovative UI/UX designs."
+  },
+  {
+    "id": 9,
+    "difficulty": "Intermediate",
+    "mostImportantGroupAttribute": "User Focused",
+    "payment": 5500,
+    "description": "Mission: Enhance the usability of a web-based project management tool by conducting user research, applying responsive design, and optimizing frontend performance with Angular."
+  },
+  {
+    "id": 10,
+    "difficulty": "Advanced",
+    "mostImportantGroupAttribute": "Fast paced",
+    "payment": 7800,
+    "description": "Mission: Lead a DevOps team in automating deployment pipelines and ensuring high availability for a containerized microservices application using Kubernetes and Docker."
+  }
+]
