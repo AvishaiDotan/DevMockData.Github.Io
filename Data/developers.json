@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "level": "Senior",
+    "salary": 100000,
+    "mostImportantAttribute": "Creativity",
+    "skills": ["SQL", ".NET", "C#", "React", "Redis", "Kafka"]
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "level": "Senior",
+    "salary": 95000,
+    "mostImportantAttribute": "User Focused",
+    "skills": ["Java", "Spring Boot", "Angular", "MongoDB"]
+  },
+  {
+    "id": 3,
+    "name": "Bob Johnson",
+    "level": "Mid-level",
+    "salary": 75000,
+    "mostImportantAttribute": "Algorithm Solving",
+    "skills": ["Python", "Django", "JavaScript", "Vue.js"]
+  },
+  {
+    "id": 4,
+    "name": "Alice Williams",
+    "level": "Mid-level",
+    "salary": 72000,
+    "mostImportantAttribute": "Fast Paced",
+    "skills": ["Ruby on Rails", "JavaScript", "React", "Redux"]
+  },
+  {
+    "id": 5,
+    "name": "Mike Brown",
+    "level": "Junior",
+    "salary": 55000,
+    "mostImportantAttribute": "Security",
+    "skills": ["C++", "Python", "Cryptography"]
+  },
+  {
+    "id": 6,
+    "name": "Sara Davis",
+    "level": "Senior",
+    "salary": 90000,
+    "mostImportantAttribute": "User Focused",
+    "skills": ["Node.js", "Express.js", "Angular", "MongoDB"]
+  },
+  {
+    "id": 7,
+    "name": "Tom Wilson",
+    "level": "Junior",
+    "salary": 60000,
+    "mostImportantAttribute": "Algorithm Solving",
+    "skills": ["Java", "Python", "Data Structures"]
+  },
+  {
+    "id": 8,
+    "name": "Emily Moore",
+    "level": "Mid-level",
+    "salary": 72000,
+    "mostImportantAttribute": "Creativity",
+    "skills": ["Ruby", "Ruby on Rails", "React"]
+  },
+  {
+    "id": 9,
+    "name": "David Lee",
+    "level": "Junior",
+    "salary": 55000,
+    "mostImportantAttribute": "Security",
+    "skills": ["C#", "ASP.NET", "Web Security"]
+  },
+  {
+    "id": 10,
+    "name": "Grace Clark",
+    "level": "Senior",
+    "salary": 95000,
+    "mostImportantAttribute": "Fast Paced",
+    "skills": ["Python", "Django", "React", "Kafka"]
+  },
+  {
+    "id": 11,
+    "name": "Daniel Evans",
+    "level": "Mid-level",
+    "salary": 70000,
+    "mostImportantAttribute": "Algorithm Solving",
+    "skills": ["Java", "Spring Boot", "JavaScript", "Vue.js"]
+  },
+  {
+    "id": 12,
+    "name": "Olivia Hall",
+    "level": "Senior",
+    "salary": 90000,
+    "mostImportantAttribute": "Creativity",
+    "skills": ["C++", "Python", "Machine Learning"]
+  },
+  {
+    "id": 13,
+    "name": "William Turner",
+    "level": "Junior",
+    "salary": 60000,
+    "mostImportantAttribute": "Security",
+    "skills": ["C#", ".NET", "Web Security"]
+  },
+  {
+    "id": 14,
+    "name": "Mia Walker",
+    "level": "Mid-level",
+    "salary": 72000,
+    "mostImportantAttribute": "Fast Paced",
+    "skills": ["Ruby on Rails", "React", "Redux"]
+  },
+  {
+  "id": 15,
+  "name": "Liam Garcia",
+  "level": "Junior",
+  "salary": 55000,
+  "mostImportantAttribute": "Security",
+  "skills": ["Java", "Python", "Cryptography"]
+},
+{
+  "id": 16,
+  "name": "Sophia Martinez",
+  "level": "Senior",
+  "salary": 95000,
+  "mostImportantAttribute": "User Focused",
+  "skills": ["Node.js", "Express.js", "Angular", "MongoDB"]
+},
+{
+  "id": 17,
+  "name": "James Rodriguez",
+  "level": "Junior",
+  "salary": 60000,
+  "mostImportantAttribute": "Algorithm Solving",
+  "skills": ["Java", "Python", "Data Structures"]
+},
+{
+  "id": 18,
+  "name": "Ava Hernandez",
+  "level": "Mid-level",
+  "salary": 72000,
+  "mostImportantAttribute": "Creativity",
+  "skills": ["Ruby", "Ruby on Rails", "React"]
+},
+{
+  "id": 19,
+  "name": "Ethan Davis",
+  "level": "Junior",
+  "salary": 55000,
+  "mostImportantAttribute": "Security",
+  "skills": ["C#", "ASP.NET", "Web Security"]
+},
+{
+  "id": 20,
+  "name": "Olivia Garcia",
+  "level": "Senior",
+  "salary": 95000,
+  "mostImportantAttribute": "Fast Paced",
+  "skills": ["Python", "Django", "React", "Kafka"]
+}
+]
